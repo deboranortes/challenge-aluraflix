@@ -1,0 +1,49 @@
+.novoVideo{
+    color: white;
+    padding: 70px 100px;
+}
+
+.titulo{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.titulo h1{
+    font-size: 60px;
+    margin: 10px;
+}
+
+.titulo p{
+    font-size: 20px;
+}
+
+.novoVideo h2{
+    border-top: 1px solid rgba(250, 250, 250, 0.2);
+    border-bottom: 1px solid rgba(250, 250, 250, 0.2);
+    font-size: 36px;
+}
+
+.criar section{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: end;
+    justify-content: flex-start;
+    gap: 30px;
+}
+
+.criar input, .criar select, .criar textarea{
+    border-color: #A5A5A5;
+}
+
+.criar div{
+    margin-top: 20px;
+    width: 47%;
+}
+
+.criar .botoes{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}

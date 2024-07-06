@@ -1,0 +1,28 @@
+.cabecalho{
+    display: flex;
+    background-color: var(--gray);
+    justify-content: space-between;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    border-bottom: 2px solid #2271D1;
+    box-shadow: 0 0 20px #2271D1;
+}
+
+.link{
+    text-decoration: none;
+    color: #fff;
+}
+
+.linkDestacado{
+    text-decoration: none;
+    color: blue;
+}
+
+.navegacao{
+    display: flex;
+    gap: 20px;
+    margin-right: 15px;
+}

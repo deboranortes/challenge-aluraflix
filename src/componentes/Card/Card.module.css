@@ -1,0 +1,30 @@
+.card{
+    background-color: black;
+    width: fit-content;
+    border-radius: 4px 4px 15px 15px;
+    border: 4px solid #6BD1FF;
+    margin: 15px;
+}
+
+.card img{
+    border-radius: 4px 4px 0 0;
+    border-bottom: 4px solid #6BD1FF;
+    width: 380px;
+    height: 200px;
+}
+
+.opcoes{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.opcoes button{
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+}

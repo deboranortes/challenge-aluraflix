@@ -1,0 +1,17 @@
+.carrossel h2{
+    color: #fff;
+    width: 250px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin-left: 15px;
+}
+
+.carrosselDiv{
+    cursor: grab;
+}
+
+.inner{
+    display: flex;
+}

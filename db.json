@@ -1,0 +1,68 @@
+{
+    "videos": [
+        {
+            "id": "9355",
+            "titulo": "O que faz uma desenvolvedora Front-end?",
+            "categoria": "Front end",
+            "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=ZY3-MFxVdEw",
+            "descricao": "O que é Front-end? Trabalhando na área e a rotina do desenvolvedor(a)"
+        },
+        {
+            "id": "2",
+            "titulo": "Árvores Binárias",
+            "categoria": "Front end",
+            "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQat_agRHpDr6z0PEoLvcseFnvAWavkn-4CAkmYVVthAVEJKfmVb7UK4RnMZ9k3GLy4Vv0&usqp=CAU",
+            "video": "https://www.youtube.com/watch?v=UOK7nS2E9xM&list=PL5TJqBvpXQv7ipm2exZbbqwpFZc-TZ80s&index=6",
+            "descricao": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados"
+        },
+        {
+            "id": "3",
+            "titulo": "UX & FRONTEND",
+            "categoria": "Front end",
+            "imagem": "https://i.ytimg.com/vi/oGy1qDSfjXo/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?app=desktop&v=oGy1qDSfjXo",
+            "descricao": "TODO desenvolvedor FRONTEND deveria saber disso! Importante"
+        },
+        {
+            "id": "4",
+            "titulo": "O que estudar para ser Back-end Developer",
+            "categoria": "Back end",
+            "imagem": "https://i.ytimg.com/vi/TJ90DZjYdWI/hqdefault.jpg",
+            "video": "https://www.youtube.com/watch?app=desktop&v=TJ90DZjYdWI",
+            "descricao": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido)"
+        },
+        {
+            "id": "5",
+            "titulo": "Github CLI - Uma nova experiência no Github",
+            "categoria": "Back end",
+            "imagem": "https://i.ytimg.com/vi/6o6-bKOZOEY/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=6o6-bKOZOEY",
+            "descricao": "Coders4Tips - Uma nova experiência com Github"
+        },
+        {
+            "id": "6",
+            "titulo": "Qual a melhor linguagem de programção?",
+            "categoria": "Back end",
+            "imagem": "https://i.ytimg.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?app=desktop&v=Uh-GNH-t89w",
+            "descricao": "Qual é a melhor linguagem de programação"
+        },
+        {
+            "id": "7",
+            "titulo": "Desenvolvimento Android",
+            "categoria": "Mobile",
+            "imagem": "https://i.ytimg.com/vi/fWscDFHKgw8/sddefault.jpg",
+            "video": "https://www.youtube.com/watch?v=fWscDFHKgw8",
+            "descricao": "Desenvolvimento Android"
+        },
+        {
+            "id": "8",
+            "titulo": "React Native",
+            "categoria": "Mobile",
+            "imagem": "https://i.ytimg.com/vi/52El0EUI6D0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=52El0EUI6D0",
+            "descricao": "The New React Native"
+        }
+    ]
+}
